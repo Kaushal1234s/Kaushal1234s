@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'# Hi there, I'm Kaushal Sharma! 👋
+## Hi there, I'm Kaushal Sharma! 👋
 
 I'm a pre-final year student at The LNM Institute of Information Technology, and I'm passionate about MERN stack development. Welcome to my GitHub profile! 
 
