@@ -1,17 +1,27 @@
-<h1 align="center">Hi 👋, I'm Kaushal Sharma</h1>
-<h3 align="center">I'm a pre-final year student at The LNM Institute of Information Technology, and I'm passionate about MERN stack development. Welcome to my GitHub profile!</h3>
+<h1 align="center">Hi 👋, I'# Hi there, I'm Kaushal Sharma! 👋
 
-- 🔭 I’m currently working on **my new project in web development.**
+I'm a pre-final year student at The LNM Institute of Information Technology, and I'm passionate about MERN stack development. Welcome to my GitHub profile! 
 
-- 🌱 I’m currently learning **MERN stack development.**
+## About Me
 
-- 📫 How to reach me **mkaushalsharma39@gmail.com**
+- 🌱 I'm currently learning MERN stack development.
+- 🎓 I'm pursuing my Bachelor's degree in Electronics and communication Engineering at The LNM Institute of Information Technology.
+- 💼 I'm actively looking for internship opportunities in web development to apply and enhance my skills.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://github.com/kaushal1234s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://github.com/kaushal1234s" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/kaushal1-2_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/kaushal1-2_/" height="30" width="40" /></a>
-</p>
+## Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+Here are some of the technologies and tools that I've been working with:
+
+- Front-end: HTML, CSS, JavaScript, React.js
+- Back-end: Node.js, Express.js
+- Database: MongoDB, MySQL
+
+
+## Connect with Me
+
+I'm always excited to connect with fellow developers and learners. You can reach out to me through the following platforms:
+
+- [LinkedIn](https://www.linkedin.com/in/kaushal-sharma-a40690213/)
+- [Email](mkaushalsharma39@gmail.com)
+
+Thank you for visiting my profile!</h1>
