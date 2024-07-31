@@ -1,12 +1,12 @@
 ## Hi there, I'm Kaushal Sharma! 👋
 
-I'm a pre-final year student at The LNM Institute of Information Technology, and I'm passionate about MERN stack development. Welcome to my GitHub profile! 
+I'm a final year student at The LNM Institute of Information Technology, and I'm passionate about MERN stack development. Welcome to my GitHub profile! 
 
 ## About Me
 
 - 🌱 I'm currently learning MERN stack development.
 - 🎓 I'm pursuing my Bachelor's degree in Electronics and communication Engineering at The LNM Institute of Information Technology.
-- 💼 I'm actively looking for internship opportunities in web development to apply and enhance my skills.
+- 💼 I'm actively looking for job opportunities in web development or software development domain to apply and enhance my skills.
 
 ## Tech Stack
 
